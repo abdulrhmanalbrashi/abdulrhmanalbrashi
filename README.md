@@ -42,12 +42,12 @@ CSS          80 hrs          █████████████████
 ---
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
-- [Project 1 (Stone - Paper - Scissor)](https://github.com/PLACEHOLDER_USERNAME/Project-1-Stone---Paper---Scissor-)
-- [Project 2 (Math Game)](https://github.com/PLACEHOLDER_USERNAME/Project-2-Math-Game-)
-- [Project 3 (Banking System)](https://github.com/PLACEHOLDER_USERNAME/Project-3-Bank-1-)
-- [Project 4 (ATM System)](https://github.com/PLACEHOLDER_USERNAME/Project-4-ATM-System-)
+- [Project 1 (MS-Project)](https://github.com/abdulrhmanalbrashi/MS-Project).
+- [Project 2 (Network Topology Cisco Packet Tracer)](https://https://github.com/abdulrhmanalbrashi/PacketTracer-Networks).
 
-> **ملاحظة:** استبدل `PLACEHOLDER_USERNAME` باسم المستخدم على GitHub وروابط المشاريع بروابط مستودعاتك الحقيقية.
+
+
+> 
 
 ---
 
@@ -60,7 +60,7 @@ CSS          80 hrs          █████████████████
 
 ### 🎯 Currently Working On <img src="https://media.giphy.com/media/xT8qBepJQzUjXpeWU8/giphy.gif" width="30">
 - Improving skills in **software development**, **databases**, and **web development**.
-- Learning advanced **C++**, **OOP**, and algorithms.
+- Learning advanced **C++**,**C#**, **OOP**, and algorithms.
 - Building small projects to practice and grow my portfolio.
 - Improving my GitHub & LinkedIn presence.
 
@@ -102,7 +102,7 @@ CSS          80 hrs          █████████████████
 
 ### 📬 Contact Information <img src="https://media.giphy.com/media/jqNPzdTTxQfOgOqpO4/giphy.gif" width="30">
 <div align="center">
-  <a href="https://www.linkedin.com/in/PLACEHOLDER_LINKEDIN">
+  <a href="https://www.linkedin.com/in/abdulrahman-al-barashi/">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="mailto:PLACEHOLDER_EMAIL">
