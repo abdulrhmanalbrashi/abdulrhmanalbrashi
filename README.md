@@ -76,7 +76,7 @@ CSS          80 hrs          █████████████████
   <table> 
     <tr> 
       <td> 
-        <img src="https://github-readme-stats.vercel.app/api?username=PLACEHOLDER_USERNAME&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="GitHub stats" /> 
+        <img src="https://github-readme-stats.vercel.app/api?username=abdulrhmanalbrashi&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="GitHub stats" /> 
       </td> 
       <td> 
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLACEHOLDER_USERNAME&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
@@ -90,12 +90,12 @@ CSS          80 hrs          █████████████████
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://github-profile-trophy.vercel.app/?username=PLACEHOLDER_USERNAME&theme=darkhub&no-frame=true&no-bg=true&margin-w=5)
+![Trophy](https://https://github.com/abdulrhmanalbrashi?tab=repositories)
 
 ---
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/PLACEHOLDER_USERNAME?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://img.shields.io/github/followers/abdulrhmanalbrashi?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
 </p>
 
 ---
