@@ -43,7 +43,7 @@ CSS          80 hrs          █████████████████
 
 ### 💻 Featured Projects <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="150" />
 - [Project 1 (MS-Project)](https://github.com/abdulrhmanalbrashi/MS-Project).
-- [Project 2 (Network Topology Cisco Packet Tracer)](https://https://github.com/abdulrhmanalbrashi/PacketTracer-Networks).
+- [Project 2 (Network Topology Cisco Packet Tracer)](https://github.com/abdulrhmanalbrashi/PacketTracer-Networks).
 
 
 
