@@ -90,12 +90,16 @@ CSS          80 hrs          █████████████████
 ---
 
 ## 🏆 GitHub Trophies
-![Trophy](https://https://github.com/abdulrhmanalbrashi?tab=repositories)
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=abdulrhmanalbrashi&theme=algolia&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+</p>
 
 ---
 
 <p align="center">
   <img src="https://img.shields.io/github/followers/abdulrhmanalbrashi?label=Followers&style=for-the-badge&logo=github&color=1f6feb" />
+  <img src="https://komarev.com/ghpvc/?username=abdulrhmanalbrashi&label=Profile%20Views&color=0e75b6&style=for-the-badge" />
 </p>
 
 ---
