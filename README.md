@@ -79,12 +79,12 @@ CSS          80 hrs          █████████████████
         <img src="https://github-readme-stats.vercel.app/api?username=abdulrhmanalbrashi&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&v=1" alt="GitHub stats" /> 
       </td> 
       <td> 
-        <img src="https://github-readme-streak-stats.herokuapp.com/?user=PLACEHOLDER_USERNAME&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
+        <img src="https://github-readme-streak-stats.herokuapp.com/?user=abdulrhmanalbrashi&theme=tokyonight&hide_border=false&v=1" alt="GitHub Streak" /> 
       </td> 
     </tr> 
   </table> 
   <br> 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PLACEHOLDER_USERNAME&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdulrhmanalbrashi&layout=compact&theme=tokyonight&hide_border=false&v=1" alt="Top Languages" /> 
 </div>
 
 ---
